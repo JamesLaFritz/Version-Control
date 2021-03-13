@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="ChallengeScript.cs" t="Include" />
         <e p="NewTestScript.cs" t="Include" />
+        <e p="TestScriptableObject.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
